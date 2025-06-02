@@ -6,3 +6,4 @@ gunicorn
 python-dotenv
 # Adicionaremos Flask-Migrate e Flask-JWT-Extended se decidirmos usá-los neste mini-sistema.
 # Por enquanto, vamos manter o mínimo.
+Flask-Migrate
